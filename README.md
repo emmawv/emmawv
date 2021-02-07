@@ -1,6 +1,6 @@
 # Hi there! Welcome to my GitHub profile ✨
 
-## 👩🏻‍💻 I'm a Junior Full Stack Web Developer with a background in Industrial Design and a passion for learning.
+## 👩🏻‍💻 I'm a Junior Full Stack Web Developer and an avid learner.
 
 ### A bit about me:
 After studying Industrial Design Engineering I persued Web Development following the belief that it is possible to be truly passionate about what you do for a living, and it was a success! After 9 weeks of fast-paced learning and hands-on projects that gave me knowledge in both technologies and methodologies used widely in this industry I went on to search for a job that would allow me to continue growing and learning. As the search goes on, I am taking it into my own hands to carry on learning anything and everything useful and interesting (there's an astounding amount of things that fit that description, and it's exciting and mind-blowing! 🤯).
