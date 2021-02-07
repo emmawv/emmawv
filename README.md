@@ -19,4 +19,4 @@ While I'm at it, i'll tell you a bit more about a few other interests:
 <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724391/800px-Nextjs-logo.svg_bkpshl.png' height='50' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612727127/output-onlinepngtools_2_u9ddib.png' height='50' width='auto'/> 
 
 ### I would love to be in touch, contact me!
-<a href='https://www.linkedin.com/in/emma-willett-vidal/'>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724954/LinkedIn_logo_initials_tjqzdd.png' width='50'/></a>  <a href='https://twitter.com/Emmawv95'><img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612725392/Twitter-Logo_hs1de1.png' width='50'/></a>
+<a href='https://www.linkedin.com/in/emma-willett-vidal/'>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724954/LinkedIn_logo_initials_tjqzdd.png' width='30'/></a>  <a href='https://twitter.com/Emmawv95'><img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612725392/Twitter-Logo_hs1de1.png' width='50'/></a>
