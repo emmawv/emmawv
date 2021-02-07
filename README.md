@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! Welcome to my GitHub profile ✨
 
 <!--
 **emmawv/emmawv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👩🏻‍💻 I'm a Junior Full Stack Web Developer with a background in Industrial Design and a passion for learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A bit about me:
+After studying Industrial Design Engineering I persued Web Development following the belief that it is possible to be truly passionate about what you do for a living, and it was a success! After 9 weeks of fast-paced learning and hands-on projects that gave me knowledge in both technologies and methodologies used widely in this industry I went on to search for a job that would allow me to continue growing and learning. As the search goes on, I am taking it into my own hands to carry on learning anything and everything useful and interesting (there's an astounding amount of things that fit that description, and it's exciting and mind-blowing! 🤯).
+
+While I'm at it, i'll tell you a bit more about a few other interests:
+✈️ I love travelling! After growing up in the UK and later moving to Spain, I learnt to appreciate different cultures at a very young age, and since then have enjoyed visiting other countries and getting the full experience of their culture and customs.
+📚 Another thing that has had me hooked since I was little is reading, but I refuse to do it digitally, I need that good ol' book smell.
+🏀 I have tried and enjoyed many sports and will give practically any one a try.
+🎨 I'm artsy and creative, always have been and always will be, art supply stores are my happy place. It is mainly why I went into Industrial Design and why my favourite subjects were those that revolved around 3D design programs like AutoCAD and Blender. In line with my creative bone, I also love music, am in the process of learning how to play the guitar, have meddled in photography and am a bit of a film buff.
+
+### On to the good stuff:
+#### Technologies I know:
+<img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723744/download_nk2xqo.jpg' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723741/JavaScript-logo_yjisyt.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724591/22-221315_react-native-logo-hd-png-download_sujznz.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723736/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail_nbov77.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723733/express-facebook-share_sdmnhi.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723738/537-5374089_react-js-logo-clipart_d4ryjv.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723730/png-clipart-mongodb-logo-database-nosql-sql-logo-company-text-thumbnail_hcwutk.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612723945/Git-Icon-1788C_r3a0bu.png' height='100' width='auto'/> 
+
+#### Technologies I'm currently learning:
+<img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724391/800px-Nextjs-logo.svg_bkpshl.png' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724421/62-627254_i-wanted-to-give-graphql-a-shot-for_sfxzov.jpg' height='100' width='auto'/>  <img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724782/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy_bgfaja.png' height='100' width='auto'/> 
+
+### Contact me!
+<a href='https://www.linkedin.com/in/emma-willett-vidal/'><img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612724954/LinkedIn_logo_initials_tjqzdd.png' width='50'/></a>  <a href='https://twitter.com/Emmawv95'><img src='https://res.cloudinary.com/helping-hand-web/image/upload/v1612725392/Twitter-Logo_hs1de1.png' width='50'/></a>
