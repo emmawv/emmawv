@@ -6,9 +6,9 @@
 After studying Industrial Design Engineering I persued Web Development following the belief that it is possible to be truly passionate about what you do for a living, and it was a success! After 9 weeks of fast-paced learning and hands-on projects that gave me knowledge in both technologies and methodologies used widely in this industry I went on to search for a job that would allow me to continue growing and learning. As the search goes on, I am taking it into my own hands to carry on learning anything and everything useful and interesting (there's an astounding amount of things that fit that description, and it's exciting and mind-blowing! 🤯).
 
 While I'm at it, i'll tell you a bit more about a few other interests:
-✈️ I love travelling! After growing up in the UK and later moving to Spain, I learnt to appreciate different cultures at a very young age, and since then have enjoyed visiting other countries and getting the full experience of their culture and customs.
-📚 Another thing that has had me hooked since I was little is reading, but I refuse to do it digitally, I need that good ol' book smell.
-🏀 I have tried and enjoyed many sports and will give practically any one a try.
+✈️ I love travelling! After growing up in the UK and later moving to Spain, I learnt to appreciate different cultures at a very young age, and since then have enjoyed visiting other countries and getting the full experience of their culture and customs. <br />
+📚 Another thing that has had me hooked since I was little is reading, but I refuse to do it digitally, I need that good ol' book smell. <br />
+🏀 I have tried and enjoyed many sports and will give practically any one a try. <br />
 🎨 I'm artsy and creative, always have been and always will be, art supply stores are my happy place. It is mainly why I went into Industrial Design and why my favourite subjects were those that revolved around 3D design programs like AutoCAD and Blender. In line with my creative bone, I also love music, am in the process of learning how to play the guitar, have meddled in photography and am a bit of a film buff.
 
 ### On to the good stuff:
