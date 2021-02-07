@@ -1,8 +1,5 @@
 # Hi there! Welcome to my GitHub profile ✨
 
-<!--
-**emmawv/emmawv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 👩🏻‍💻 I'm a Junior Full Stack Web Developer with a background in Industrial Design and a passion for learning.
 
 ### A bit about me:
